@@ -114,7 +114,7 @@ class Register extends React.Component{
                 <Grid.Column style={{ maxWidth : 450}} >
                     <Header as="h1" icon color="violet" textAlign="center">
                         <Icon name="comments outline" color="violet" />
-                        DevChat 
+                        Friendy
                     </Header>
                     <Form onSubmit={this.handleSubmit} size="large">
                         <Segment stacked>
